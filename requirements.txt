@@ -1,0 +1,6 @@
+semantic-kernel==1.19.0
+# semantic-kernel
+openai
+azure-identity
+python-dotenv
+pydantic>=2.0

@@ -1,4 +1,6 @@
-# Setup Instructions for reasoningSkFoundry
+**sk-multiagent-lab** is a collection of experiments and tools for orchestrating multi-agent reasoning workflows using Microsoft Semantic Kernel, Azure OpenAI, and Azure AI Foundry’s AI Agent Service. It demonstrates advanced agent collaboration, report generation, and interactive chat, with integrated support for search tools and code interpreter tools, leveraging both OpenAI and Azure AI models.
+
+# Setup Instructions
 
 ## 1. Clone the repository
 ```zsh

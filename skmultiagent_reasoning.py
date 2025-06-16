@@ -325,7 +325,7 @@ async def orchestrator_chat_loop():
     """
     A simple, open-ended chat loop using the orchestrator agent, not limited to reports.
     """
-    deployment_name = "o3"
+    deployment_name = "gpt-4.1-nano"  # The model to use for the chat agent
     endpoint = os.environ["CHAT_MODEL_ENDPOINT"]
     api_key = os.environ["CHAT_MODEL_API_KEY"]
     service_id = "orchestrator_agent"
